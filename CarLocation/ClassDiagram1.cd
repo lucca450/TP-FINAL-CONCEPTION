@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarLocation.DataManager" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAJAQAAgAEAgAAAQAAAAAACAAGBAAoAAQAIAVBAAAAA=</HashCode>
+      <FileName>Database\DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.MainMenuForm" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAAACAAAAAEAACAAAACAgAAAAAAAAABgAgQAAA=</HashCode>
+      <FileName>Program\MainMenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.ClientManagementForm" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/wCQACAIFCxARBBYBESAQA7KoAIUsgArAQF5AAolCDA=</HashCode>
+      <FileName>Program\Person\Forms\ClientManagementForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.VehiculeLoanForm" Collapsed="true">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAKgAikCQEABAAgRDAYRgqCAAAAAAAJI0YKYAgGEA=</HashCode>
+      <FileName>Program\Vehicle\Forms\VehiculeLoanForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.VehiculeReservationForm" Collapsed="true">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAACgCiACQAAhAAgBCAYQgqCACAAAAAJI0YIIAAGEA=</HashCode>
+      <FileName>Program\Vehicle\Forms\VehiculeReservationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Program" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.FormUtilities" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABAAGAAAAEAIAAAgAAAAAAAAAAAAAEAAAgABAAIQgA=</HashCode>
+      <FileName>Utilities\FormUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Payment" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program\Payment\Payment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Attendant">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Program\Person\Attendant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Client">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAgAAAAABAAAAAAAAAIAAAAAAICAAAAAAAAIg=</HashCode>
+      <FileName>Program\Person\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Person">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAABAAAAAAAAAAAAAIAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Person\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.SecondaryDriver">
+    <Position X="5.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Person\SecondaryDriver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Brand" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Vehicle\Brand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Edition" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Vehicle\Edition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Location" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAIAAAAAAgAAAAAAAAAAAAAACAAgBAAAAAA=</HashCode>
+      <FileName>Program\Vehicle\Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Model" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Program\Vehicle\Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Reservation" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAIAAAAAAAAAAAQAAAAAAASACAAiBAAAAAA=</HashCode>
+      <FileName>Program\Vehicle\Reservation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Type" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Vehicle\Type.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.Vehicle" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEEAAAABAAAAAAAAAAAAAAAAAABAAEAACAAAAAIAEA=</HashCode>
+      <FileName>Program\Vehicle\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.VehicleCatalog" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABAAAA=</HashCode>
+      <FileName>Program\Vehicle\VehicleCatalog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Classes.VehicleCopy" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAIAAAAAAAAAAAgAAAgQGAAAAAAAAAAA=</HashCode>
+      <FileName>Program\Vehicle\VehicleCopy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Utilities.ControllerForm.ClientManagementController" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAIAAAgAAAAAAACAAAAgCBAAQ=</HashCode>
+      <FileName>Program\Person\Controller\ClientManagementController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Utilities.ControllerForm.VehicleController" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAAAAAAAAQAQAgAAQECAABAIAAoAIACAQAQAAABIgAE=</HashCode>
+      <FileName>Program\Vehicle\Controller\VehicleController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Utilities.Database.StartController" Collapsed="true">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program\StartController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Properties.Resources" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CarLocation.Properties.Settings" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
